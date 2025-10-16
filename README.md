@@ -6,5 +6,5 @@ I hope to gain a deeper understanding of how software evolves and how to maintai
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [[here, insert link to your github profile](https://github.com/MrRahimie)]
+You can view my personalized GitHub profile [[Mr.Rahimie](https://github.com/MrRahimie)]
 
